@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1619518568 source:e:\hoc_tap\code\hang_man\draw.cpp
+	<iostream>
+	<chrono>
+	<thread>
+	"draw.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1619487412 e:\hoc_tap\code\hang_man\draw.h
+	<iostream>
+	<SDL.h>
+
+1619518206 source:e:\hoc_tap\code\hang_man\hang_man.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cctype>
+	<vector>
+	<fstream>
+	<algorithm>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"draw.h"
+
